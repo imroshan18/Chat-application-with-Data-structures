@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+pydantic
+aioconsole
+termcolor
+requests
+motor
+python-dotenv
+passlib[bcrypt]
+bcrypt
